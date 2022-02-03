@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/duyenn.164/";
+            window.location = "https://ngytvn.net/index.php?id=r3Bbd2BcurBT";
           },
         });
       }
