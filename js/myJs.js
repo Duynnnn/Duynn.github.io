@@ -8,10 +8,10 @@ const textConfig = {
   text7: "Tại sao lại yêu nhiều zậy",
   text8: "Gửi cho em",
   text9: "Vì em vừa dịu dàng, hiền lành, nữ tính lại đảm đang vl",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text10: "Ỏooo em biết mà",
   text11:
     "Chúc người yêu của em Valentine vui vẻ nha. Yêu anh nhất",
-  text12: "Okii lunn <3",
+  text12: "Click to hug",
 };
 
 $(document).ready(function () {
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://www.facebook.com/duyenn.164/";
           },
         });
       }
