@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "Chào người iu của Duyn ✌",
-  text2: "Em có điều này muốn hỏi nè :>",
+  text1: "Chào bạn Hưng ✌",
+  text2: "Mình có điều này muốn hỏi nè :>",
   text3: "Anh yêu em nhiều không?????",
   text4: "Trả lời hoặc ăn đấm",
-  text5: "Yêu sương sương hoy 凸(¬‿¬)凸",
+  text5: "Yêu sương sương hoy (¬_¬")",
   text6: "Yêu ơi là yêuuuuu  ≧◔◡◔≦",
-  text7: "Tại sao lại yêu nhiều zậy",
+  text7: "Tại sao lại yêu nhiều cơ",
   text8: "Gửi cho em",
-  text9: "Vì em vừa dịu dàng, hiền lành, nữ tính lại đảm đang vl",
-  text10: "Ỏooo em biết mà",
+  text9: "Vì em vừa dịu dàng, hiền lành lại đảm đang",
+  text10: "Ỏooo em biết mà hí hí",
   text11:
-    "Chúc người yêu của em Valentine vui vẻ nha. Yêu anh nhất",
-  text12: "Click to hug",
+    "Chúc người yêu của em Valentine vui vẻ nha. Yêu anh nhất ♥",
+  text12: "Click để thấy người yêu bạn",
 };
 
 $(document).ready(function () {
