@@ -11,7 +11,7 @@ const textConfig = {
   text10: "Ỏooo em biết mà hí hí",
   text11:
     "Chúc người yêu của em Valentine vui vẻ nha. Yêu anh nhất ♥",
-  text12: "Click để thấy người yêu bạn",
+  text12: "Ấn vào đây đi (Pass: yeuVTKH)",
 };
 
 $(document).ready(function () {
