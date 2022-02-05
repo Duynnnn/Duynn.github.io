@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "Chào bạn Hưng ✌",
-  text2: "Mình có điều này muốn hỏi nè :>",
-  text3: "Anh yêu em nhiều không?????",
-  text4: "Trả lời hoặc ăn đấm",
-  text5: "Yêu sương sương hoy (¬_¬")",
-  text6: "Yêu ơi là yêuuuuu  ≧◔◡◔≦",
-  text7: "Tại sao lại yêu nhiều cơ",
-  text8: "Gửi cho em",
-  text9: "Vì em vừa dịu dàng, hiền lành lại đảm đang",
-  text10: "Ỏooo em biết mà hí hí",
+  text1: "He luu cậu!",
+  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
+  text3: "Cậu yêu tớ có phải không nào ._.",
+  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
+  text5: "Cậu mơ à???",
+  text6: "Yêu ơi là yêu <3",
+  text7: "lí do cậu thích tớ đi :vvvv",
+  text8: "Gửi cho tớ <3",
+  text9: "Vì cậu đẹp try vlllll",
+  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
   text11:
-    "Chúc người yêu của em Valentine vui vẻ nha. Yêu anh nhất ♥",
-  text12: "Ấn vào đây đi (Pass: số ngày yêu nhau)",
+    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+  text12: "Okii lunn <3",
 };
 
 $(document).ready(function () {
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://ngytvn.net/index.php?id=r3Bbd2BcurBT";
+            window.location = "http://fb.com";
           },
         });
       }
